@@ -1,2 +1,2 @@
-# fix-google-photo-takeout-
-a python script to fix google photo takeout metadata
+一个用来修复谷歌相册导出文件丢失时间线的python脚本
+依赖exiftool
